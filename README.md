@@ -3,8 +3,8 @@ Climatic Eye of ISCI
 (cc)
 
 
-We are an initiative that conducts studies in the field of Space Science,
-publishes projects and reports, offers analytical perspectives and data analysis to stop the global climate catastrophe.
+_We are an initiative that conducts studies in the field of Space Science,
+publishes projects and reports, offers analytical perspectives and data analysis to stop the global climate catastrophe._
 
 _This software network was created by ISCI-Lab to detect natural disasters on the planet._
 
