@@ -1,6 +1,6 @@
 # CEI Natural Disaster Tracking Portal
-Climatic Eye of ISCI
-(cc)
+(cc) Climatic Eye of ISCI
+
 
 
 _We are an initiative that conducts studies in the field of Space Science,
