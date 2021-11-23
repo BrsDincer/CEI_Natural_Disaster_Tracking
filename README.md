@@ -6,11 +6,11 @@ Climatic Eye of ISCI
 We are an initiative that conducts studies in the field of Space Science,
 publishes projects and reports, offers analytical perspectives and data analysis to stop the global climate catastrophe.
 
-This software network was created by ISCI-Lab to detect natural disasters on the planet.
+_This software network was created by ISCI-Lab to detect natural disasters on the planet._
 
-It is completely open source and open to suggestions and edits from all developers.
+_It is completely open source and open to suggestions and edits from all developers._
 
-Each function can be edited and run when necessary. If you want to run the whole code, run the CEI_NDT.py in your panel.
+_Each function can be edited and run when necessary. If you want to run the whole code, run the CEI_NDT.py in your panel._
 
 
           Basic command option I: python <script_name>.py -<short_parameters_you_want_to_use> <number_of_call>
